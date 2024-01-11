@@ -987,7 +987,7 @@ a:focus use {
 
 .inp:checked + .privacy span:first-child {
   border: none;
-  background-color: var(--ocean);
+  background-color: #404bbf;
   fill: var(--cloud);
 }
 
