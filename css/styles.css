@@ -857,6 +857,7 @@ img {
 
 .form-div {
   margin-bottom: 8px;
+  margin-left: auto;
   /* display: flex; */
 }
 
